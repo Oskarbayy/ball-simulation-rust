@@ -1,0 +1,1 @@
+let map = 0 // 0 or 1, 0 is circle around and 1 is rectangle (screen size so u can resize window and the balls will in realtime hit the updating boundary...)
