@@ -1,0 +1,8 @@
+[package]
+name = "ball_sim_rust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+macroquad = "0.4"
+rand = { version = "0.9.2", features = ["small_rng"] }
